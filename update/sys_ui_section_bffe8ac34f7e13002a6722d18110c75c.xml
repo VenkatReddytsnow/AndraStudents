@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="bffe8ac34f7e13002a6722d18110c75c" sys_domain="global" table="x_210865_andra_stu_stundentsap" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-24 09:24:12</sys_created_on>
+            <sys_id>fbfe8ac34f7e13002a6722d18110c762</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_210865_andra_stu_stundentsap" sys_domain="global" view="Default view">bffe8ac34f7e13002a6722d18110c75c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-24 09:24:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-24 09:28:31</sys_created_on>
+            <sys_id>c7ff8ac34f7e13002a6722d18110c770</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_210865_andra_stu_stundentsap" sys_domain="global" view="Default view">bffe8ac34f7e13002a6722d18110c75c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-24 09:28:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>district</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-24 09:29:26</sys_created_on>
+            <sys_id>943052074f7e13002a6722d18110c700</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_210865_andra_stu_stundentsap" sys_domain="global" view="Default view">bffe8ac34f7e13002a6722d18110c75c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-24 09:29:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_210865_andra_stu_stundentsap</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-24 09:24:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bffe8ac34f7e13002a6722d18110c75c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_210865_andra_stu_stundentsap</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Andra stunts" source="x_210865_andra_stu">5c3ec6434f7e13002a6722d18110c72f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Andra stunts">5c3ec6434f7e13002a6722d18110c72f</sys_scope>
+            <sys_update_name>sys_ui_section_bffe8ac34f7e13002a6722d18110c75c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-24 09:24:12</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

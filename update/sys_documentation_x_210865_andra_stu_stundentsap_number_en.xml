@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="number" label="Number" language="en" table="x_210865_andra_stu_stundentsap">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <help/>
+            <hint/>
+            <label>Number</label>
+            <language>en</language>
+            <name>x_210865_andra_stu_stundentsap</name>
+            <plural>Numbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-24 09:20:55</sys_created_on>
+            <sys_id>e73ec2c34f7e13002a6722d18110c7fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Number</sys_name>
+            <sys_package display_value="Andra stunts" source="x_210865_andra_stu">5c3ec6434f7e13002a6722d18110c72f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Andra stunts">5c3ec6434f7e13002a6722d18110c72f</sys_scope>
+            <sys_update_name>sys_documentation_x_210865_andra_stu_stundentsap_number_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-24 09:20:55</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

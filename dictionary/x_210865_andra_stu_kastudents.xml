@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="KAstudents" max_length="40" name="x_210865_andra_stu_kastudents" type="collection"/>
+</database>

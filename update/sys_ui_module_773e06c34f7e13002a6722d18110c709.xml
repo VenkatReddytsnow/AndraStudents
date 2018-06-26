@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Andra_stunts">f33e06c34f7e13002a6722d18110c707</application>
+        <filter/>
+        <name>stundentsAP</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_210865_andra_stu.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-24 09:20:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>773e06c34f7e13002a6722d18110c709</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>stundentsAP</sys_name>
+        <sys_package display_value="Andra stunts" source="x_210865_andra_stu">5c3ec6434f7e13002a6722d18110c72f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Andra stunts">5c3ec6434f7e13002a6722d18110c72f</sys_scope>
+        <sys_update_name>sys_ui_module_773e06c34f7e13002a6722d18110c709</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-24 09:20:55</sys_updated_on>
+        <table>x_210865_andra_stu_stundentsap</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
